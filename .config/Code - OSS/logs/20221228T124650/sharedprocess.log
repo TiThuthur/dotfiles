@@ -1,0 +1,10 @@
+2022-12-28 12:47:02.056 [info] Starting worker process with pid 2122 (type: fileWatcher, window: 1).
+2022-12-28 12:47:59.990 [info] Worker process with pid 2122 terminated normally (type: fileWatcher, window: 1).
+2022-12-28 12:48:03.346 [info] Starting worker process with pid 2251 (type: fileWatcher, window: 1).
+2022-12-28 12:48:12.425 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2022-12-28 12:48:12.930 [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+2022-12-28 12:48:14.621 [info] Extracted extension to /home/tithuthur/.vscode-oss/extensions/.1d992498-efc5-419e-a4e2-d8bd83963d92: ms-ceintl.vscode-language-pack-fr
+2022-12-28 12:48:14.817 [info] Renamed to /home/tithuthur/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-fr-1.74.0-universal
+2022-12-28 12:48:14.821 [info] Extracting completed. ms-ceintl.vscode-language-pack-fr
+2022-12-28 12:48:15.017 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2022-12-28 12:48:15.486 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr

@@ -1,0 +1,10 @@
+2022-12-28 12:48:36.103 [info] Extension host with pid 2580 started
+2022-12-28 12:48:36.111 [info] Skipping acquiring lock for /home/tithuthur/.config/Code - OSS/User/workspaceStorage/cf6bf616ea8287910b918b7d07246010.
+2022-12-28 12:48:36.423 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-28 12:48:36.946 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-28 12:48:36.947 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-28 12:48:37.459 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2022-12-28 12:48:37.551 [info] Eager extensions activated
+2022-12-28 12:48:37.652 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-28 12:48:37.652 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-28 12:48:37.653 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

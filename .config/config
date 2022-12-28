@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[status]
+	showUntrackedFiles = no
+[remote "dotfiles"]
+	url = git@github.com:TiThuthur/dotfiles.git
+	fetch = +refs/heads/*:refs/remotes/dotfiles/*

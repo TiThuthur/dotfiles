@@ -1,0 +1,8 @@
+2022-12-27 12:47:39.988 [info] Starting worker process with pid 3569 (type: fileWatcher, window: 1).
+2022-12-27 12:47:42.591 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-27 12:52:54.943 [info] Getting Manifest... ahmadawais.shades-of-purple
+2022-12-27 12:52:55.071 [info] Installing extension: ahmadawais.shades-of-purple
+2022-12-27 12:52:58.479 [info] Extracted extension to /home/tithuthur/.vscode-oss/extensions/.0ad79c83-f131-433d-93dd-6b7b65ca3f55: ahmadawais.shades-of-purple
+2022-12-27 12:52:58.610 [info] Renamed to /home/tithuthur/.vscode-oss/extensions/ahmadawais.shades-of-purple-7.1.5-universal
+2022-12-27 12:52:58.647 [info] Extracting completed. ahmadawais.shades-of-purple
+2022-12-27 12:52:58.892 [info] Extension installed successfully: ahmadawais.shades-of-purple

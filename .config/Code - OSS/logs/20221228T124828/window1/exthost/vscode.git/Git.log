@@ -1,0 +1,57 @@
+2022-12-28 12:48:37.654 [info] Niveau de journal : Info
+2022-12-28 12:48:37.654 [info] Validation du git trouvé dans : «git»
+2022-12-28 12:48:37.654 [info] Utilisation de git «2.39.0» à partir de «git»
+2022-12-28 12:48:37.654 [info] > git rev-parse --show-toplevel [25ms]
+2022-12-28 12:48:37.654 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.669 [info] > git rev-parse --show-toplevel [20ms]
+2022-12-28 12:48:37.669 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.691 [info] > git rev-parse --show-toplevel [7ms]
+2022-12-28 12:48:37.691 [info] fatal: this operation must be run in a work tree
+2022-12-28 12:48:37.710 [info] > git rev-parse --show-toplevel [10ms]
+2022-12-28 12:48:37.710 [info] fatal: this operation must be run in a work tree
+2022-12-28 12:48:37.733 [info] > git rev-parse --show-toplevel [14ms]
+2022-12-28 12:48:37.733 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.749 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-28 12:48:37.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.764 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-28 12:48:37.765 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.779 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-28 12:48:37.779 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.793 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-28 12:48:37.793 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.808 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-28 12:48:37.808 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.861 [info] > git rev-parse --show-toplevel [27ms]
+2022-12-28 12:48:37.861 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.910 [info] > git rev-parse --show-toplevel [9ms]
+2022-12-28 12:48:37.910 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.931 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-28 12:48:37.931 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.950 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-28 12:48:37.950 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.964 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-28 12:48:37.964 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:37.976 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-28 12:48:37.976 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:38.002 [info] > git rev-parse --show-toplevel [9ms]
+2022-12-28 12:48:38.002 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:38.157 [info] > git rev-parse --show-toplevel [104ms]
+2022-12-28 12:48:38.157 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:38.185 [info] > git rev-parse --show-toplevel [17ms]
+2022-12-28 12:48:38.185 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:38.229 [info] > git rev-parse --show-toplevel [29ms]
+2022-12-28 12:48:38.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:38.253 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-28 12:48:38.253 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:48:38.276 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-28 12:48:38.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:53:45.000 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-28 12:53:45.000 [info] fatal: this operation must be run in a work tree
+2022-12-28 12:53:54.487 [info] > git rev-parse --show-toplevel [12ms]
+2022-12-28 12:53:54.487 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:55:24.479 [info] > git rev-parse --show-toplevel [9ms]
+2022-12-28 12:55:24.479 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:55:28.813 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-28 12:55:28.813 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-28 12:57:15.845 [info] > git rev-parse --show-toplevel [15ms]
+2022-12-28 12:57:15.845 [info] fatal: this operation must be run in a work tree

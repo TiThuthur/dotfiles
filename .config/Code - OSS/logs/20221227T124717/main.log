@@ -1,0 +1,4 @@
+2022-12-27 12:47:18.793 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-27 12:47:30.550 [info] Starting extension host with pid 3521 (fork() took 20 ms).
+2022-12-27 12:54:16.236 [info] Waiting for extension host with pid 3521 to exit.
+2022-12-27 12:54:19.727 [info] Extension host with pid 3521 exited with code: 0, signal: null.

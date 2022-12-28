@@ -1,0 +1,6 @@
+2022/12/27-12:40:48.276 3 Reusing MANIFEST /home/tithuthur/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/12/27-12:40:48.278 3 Recovering log #3
+2022/12/27-12:40:48.312 3 Reusing old log /home/tithuthur/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2022/12/27-12:50:44.714 3 Level-0 table #5: started
+2022/12/27-12:50:44.950 3 Level-0 table #5: 189432 bytes OK
+2022/12/27-12:50:45.074 3 Delete type=0 #3

@@ -1,0 +1,2 @@
+2022-12-28 12:48:37.374 [info] [perf] Render performance baseline is 69ms
+2022-12-28 12:48:43.067 [error] Error while registering log channel file:///home/tithuthur/.config/Code%20-%20OSS/logs/20221228T124828/userDataSync.log Timed out while waiting for file to be created
