@@ -8,5 +8,6 @@ fi
 if [[ -e /usr/share/zsh/manjaro-zsh-prompt ]]; then
   source /usr/share/zsh/manjaro-zsh-prompt
 fi
-
+EDITOR=/usr/bin/nvim
 neofetch
+alias config='/usr/bin/git --git-dir=/home/arthur/.cfg/ --work-tree=/home/arthur'
