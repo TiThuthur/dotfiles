@@ -1,5 +1,0 @@
-{"timestamp":28453936,"category":"nimbus_events","name":"unenrollment","extra":{"enrollment_id":"00f0bb73-a643-409c-823a-60adeeffaa13","branch":"control","experiment":"onboarding-modal-experiment","reason":"invalid-branch"}}
-{"timestamp":28580276,"category":"perf","name":"page_load","extra":{"response_time":"418","load_time":"2550","fcp_time":"2252","js_exec_time":"1473","load_type":"NORMAL"}}
-{"timestamp":28590218,"category":"perf","name":"page_load","extra":{"load_type":"LINK","load_time":"2614","js_exec_time":"535","fcp_time":"0","response_time":"1620"}}
-{"timestamp":28689058,"category":"perf","name":"page_load","extra":{"fcp_time":"1229","response_time":"675","load_time":"2851","js_exec_time":"1183","load_type":"LINK"}}
-{"timestamp":32837871,"category":"perf","name":"page_load","extra":{"response_time":"812","load_type":"RELOAD","fcp_time":"1429","js_exec_time":"1605","load_time":"3951"}}
